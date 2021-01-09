@@ -1,0 +1,30 @@
+  
+:root {
+    --side-padding: 2vw;
+    --footer-height: 3rem;
+}
+
+section#page-container {
+    position: relative;
+    min-height: 100vh;
+    margin: 0 auto;
+    max-width: 700px;
+    width: 100%;
+    /* padding-left: 1vw;
+    padding-right: 1vw; */
+}
+
+#content-wrap {
+    padding-bottom: var(--footer-height);
+    /* Footer height */
+    padding-left: var(--side-padding);
+    padding-right: var(--side-padding);
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: var(--footer-height);
+    /* Footer height */
+}
