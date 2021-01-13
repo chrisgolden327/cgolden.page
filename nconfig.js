@@ -13,14 +13,9 @@ module.exports = {
     },
     // All authors must be defined here.
     authors: {
-        "first-author": {
+        "christopher-golden": {
             name: "First Author",
             short_bio: "short bio catchphrase",
-            bio: "a whole HTML paragraph."
-        },
-        "second-author": {
-            name: "Second Author",
-            short_bio: "a short bio.",
             bio: "a whole HTML paragraph."
         }
     },

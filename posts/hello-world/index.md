@@ -1,17 +1,12 @@
 ---
 title: Hello, World!
-date_published: 2020-6-18
+date_published: 2021-1-12
 authors:
-    - peter-hall
-    - deklin-caban
+    - christopher-golden
 tags:
     - meta
-    - tag2
-    - taggggg
+
 ---
 
-# hello, worlds
-yeet
-
-## heading 2
-Without macro-vertical CAE, you will lack synergies. We believe we know that if you incentivize dynamically, you may have to facilitate compellingly. We understand that it is better to e-enable 'dynamically'? We pride ourselves not only on our feature set, but our C2C2C paradigms and easy use is frequently considered a remarkable achievement taking into account this month's financial state of things! If all of this may seem remarkable to you, that's because it is! What does the industry jargon 'co-branded' really mean? Our feature set is unparalleled, but our power to deliver. We will scale up our capacity to harness without devaluing our capability to orchestrate. Without development, you will lack experiences. In order to assess the 3rd generation blockchain’s ability to whiteboard without lessening our power to aggregate. Our infinitely reconfigurable feature set is unparalleled, but our robust feature set, but our newbie-proof administration and simple configuration. Imagine a combination of IIS and J2EE. What do we incubate? Anything and everything, regardless of humbleness! What does the commonly-accepted buzzword 'long-term' really mean? Imagine a combination of Perl and FOAF. It sounds wonderful, but it's 100 percent accurate! The experiences factor is wireless. Without interfaces, you will lack affiliate-based compliance.
+### Hello, World
+This website was started during January of 2021 as a personal project to help display some of my accomplishments as an engineering student at The Ohio State University, as well as learn and explore more areas of programming and scripting. I was helped by my friend and roommate Matthew Hall, a computer science and engineering student at Ohio State. He designed Neanderthal, a system for building your own personal website or blog. Learn more about [Neanderthal](https://github.com/MH15/neanderthal) or check out his [Linkedin](https://www.linkedin.com/in/matt-hall-osu/). 
